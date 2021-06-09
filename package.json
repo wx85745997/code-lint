@@ -1,5 +1,5 @@
 {
-  "name": "code-init",
+  "name": "@xiaolongbao/code-init",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "commander": "^7.2.0",
-    "fs-extra": "^10.0.0"
+    "fs-extra": "^10.0.0",
+    "ora": "^5.4.0"
   }
 }
